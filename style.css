@@ -11,7 +11,7 @@
 
 body {
     font-family: var(--font);
-    background: url("images/1567665.png") no-repeat center center fixed; /* Local image used as background */
+    background: url("https://github.com/Alok3k7/Alok_portfolio/blob/main/1567665.png") no-repeat center center fixed; /* Local image used as background */
     background-size: cover;
     display: flex;
     min-height: 100vh;
